@@ -2,7 +2,9 @@
 Masive File Renamer
 
 rename env to .env
-configure folder path, and list filename (txt);
+edit file and configure folder path, and list filename (txt)
+
+npm install
 
 npm run simulator
 
